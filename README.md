@@ -1,1 +1,6 @@
-# 20mmd10_Intro_to_AI_Labprograms
+Basic logic gates
+Simple Reflex Vacuum Cleaner
+M*N Vacuum cleaner
+Entails
+8-puzzle Algorithm
+Depth First search
